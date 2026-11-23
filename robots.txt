@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rambo22561.github.io/Salman-printer-dev/sitemap.xml
